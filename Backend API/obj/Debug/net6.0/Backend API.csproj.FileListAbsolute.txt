@@ -1,0 +1,32 @@
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\appsettings.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Backend API.exe
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Backend API.deps.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Backend API.runtimeconfig.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Backend API.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Backend API.pdb
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.csproj.AssemblyReference.cache
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.AssemblyInfoInputs.cache
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.AssemblyInfo.cs
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.csproj.CoreCompileInputs.cache
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets\msbuild.Backend API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend API.props
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend API.props
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend API.props
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\scopedcss\bundle\Backend API.styles.css
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.csproj.CopyComplete
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\refint\Backend API.dll
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.pdb
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\Backend API.genruntimeconfig.cache
+D:\Coding\C# Repos (Visual Studio)\Assignment\Backend API\obj\Debug\net6.0\ref\Backend API.dll
